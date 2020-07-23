@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VsCodeXamarinUtil": {
+      "commandName": "Project",
+      "commandLineArgs": "-c=android-devices"
+    }
+  }
+}
